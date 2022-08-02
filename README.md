@@ -1,1 +1,2 @@
-# Filtro_1_ordem
+# 
+Implementação de um filtro de 1° ordem em Arduino UNO.
